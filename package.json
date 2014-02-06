@@ -1,0 +1,27 @@
+{
+  "name": "dnspod-node",
+  "version": "0.1.1",
+  "description": "A dnspod.com Client",
+  "keywords": [
+    "dnspod",
+    "ddns",
+    "get ip"
+  ],
+  "homepage": "https://github.com/lucentminds/dnspod-node",
+  "author": {
+    "name": "Scott Johnson",
+    "email": "scott@lucentminds.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucentminds/dnspod-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucentminds/dnspod-node/issues"
+  },
+  "main": "./dnspod.js",
+  "dependencies": {},
+  "readmeFilename": "README.md",
+  "_id": "dnspod-node@0.1.1",
+  "_from": "dnspod-node@"
+}
